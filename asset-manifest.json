@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vinayanant.github.io/static/css/main.0e930df5.css",
+    "main.js": "/vinayanant.github.io/static/js/main.3ed74ccd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/vinayanant.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/vinayanant.github.io/index.html",
+    "main.0e930df5.css.map": "/vinayanant.github.io/static/css/main.0e930df5.css.map",
+    "main.3ed74ccd.js.map": "/vinayanant.github.io/static/js/main.3ed74ccd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/vinayanant.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e930df5.css",
+    "static/js/main.3ed74ccd.js"
+  ]
+}
