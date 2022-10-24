@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/vinayanant.github.io/static/css/main.0e930df5.css",
-    "main.js": "/vinayanant.github.io/static/js/main.3ed74ccd.js",
-    "static/js/787.28cb0dcd.chunk.js": "/vinayanant.github.io/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/vinayanant.github.io/index.html",
-    "main.0e930df5.css.map": "/vinayanant.github.io/static/css/main.0e930df5.css.map",
-    "main.3ed74ccd.js.map": "/vinayanant.github.io/static/js/main.3ed74ccd.js.map",
-    "787.28cb0dcd.chunk.js.map": "/vinayanant.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/vinayanant.github.io/my-app/static/css/main.dbfdbb55.css",
+    "main.js": "/vinayanant.github.io/my-app/static/js/main.4a8d8357.js",
+    "static/js/787.28cb0dcd.chunk.js": "/vinayanant.github.io/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image1.jpg": "/vinayanant.github.io/my-app/static/media/image1.4bd0bbe1c17b53e4b4ac.jpg",
+    "index.html": "/vinayanant.github.io/my-app/index.html",
+    "main.dbfdbb55.css.map": "/vinayanant.github.io/my-app/static/css/main.dbfdbb55.css.map",
+    "main.4a8d8357.js.map": "/vinayanant.github.io/my-app/static/js/main.4a8d8357.js.map",
+    "787.28cb0dcd.chunk.js.map": "/vinayanant.github.io/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e930df5.css",
-    "static/js/main.3ed74ccd.js"
+    "static/css/main.dbfdbb55.css",
+    "static/js/main.4a8d8357.js"
   ]
 }
