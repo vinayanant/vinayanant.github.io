@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/vinayanant.github.io/static/css/main.dbfdbb55.css",
-    "main.js": "/vinayanant.github.io/static/js/main.d7da671a.js",
+    "main.js": "/vinayanant.github.io/static/js/main.5ec91218.js",
     "static/js/787.28cb0dcd.chunk.js": "/vinayanant.github.io/static/js/787.28cb0dcd.chunk.js",
     "static/media/image1.jpg": "/vinayanant.github.io/static/media/image1.4bd0bbe1c17b53e4b4ac.jpg",
     "index.html": "/vinayanant.github.io/index.html",
     "main.dbfdbb55.css.map": "/vinayanant.github.io/static/css/main.dbfdbb55.css.map",
-    "main.d7da671a.js.map": "/vinayanant.github.io/static/js/main.d7da671a.js.map",
+    "main.5ec91218.js.map": "/vinayanant.github.io/static/js/main.5ec91218.js.map",
     "787.28cb0dcd.chunk.js.map": "/vinayanant.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbfdbb55.css",
-    "static/js/main.d7da671a.js"
+    "static/js/main.5ec91218.js"
   ]
 }
